@@ -1,0 +1,6 @@
+C:\Users\faith\Desktop\Webserver\WebDemo2\bin\WebDemo2.dll
+C:\Users\faith\Desktop\Webserver\WebDemo2\bin\WebDemo2.pdb
+C:\Users\faith\Desktop\Webserver\WebDemo2\bin\Newtonsoft.Json.dll
+C:\Users\faith\Desktop\Webserver\WebDemo2\obj\Debug\WebDemo2.csprojResolveAssemblyReference.cache
+C:\Users\faith\Desktop\Webserver\WebDemo2\obj\Debug\WebDemo2.dll
+C:\Users\faith\Desktop\Webserver\WebDemo2\obj\Debug\WebDemo2.pdb
